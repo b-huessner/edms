@@ -1,0 +1,14 @@
+{
+  "name": "edms",
+  "workspaces": [
+    "edms-fe",
+    "edms-be"
+  ],
+  "version": "0.0.1",
+  "description": "A Document Management System written with nestjs (be) and vue (fe)",
+  "main": "index.js",
+  "repository": "https://github.com/b-huessner/edms.git",
+  "author": "Bastian Hüßner <bastian@bastianhuessner.de>",
+  "license": "MIT",
+  "private": true
+}

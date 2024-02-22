@@ -1,0 +1,7 @@
+{
+  "name": "edms-fe",
+  "version": "0.0.1",
+  "description": "The document management system frontend",
+  "main": "index.js",
+  "license": "MIT"
+}
